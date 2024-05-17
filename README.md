@@ -18,6 +18,6 @@ Project Euler offers a series of challenging mathematical and computational prob
 
 Feel free to explore my solutions. However, please keep in mind the guidelines of Project Euler, which discourage sharing explicit solutions in public forums. Instead, focus on discussing concepts and algorithms.
 
-If you're interested in more challenges, check out [FreeCodeCamp's Project Euler challenges](https://www.freecodecamp.org/learn/project-euler/) 🌟.
+If you're interested in more challenges, check out [Project euler website](https://projecteuler.net/) or [FreeCodeCamp's Project Euler challenges](https://www.freecodecamp.org/learn/project-euler/) 🌟 
 
 Happy coding! 🎉
